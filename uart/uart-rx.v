@@ -9,7 +9,7 @@
 // Parameters:  Set Parameter CLKS_PER_BIT as follows:
 //              CLKS_PER_BIT = (Frequency of i_Clock)/(Frequency of UART)
 //              Example: 12 MHz Clock, 9600 baud UART
-//              (25000000)/(9600) = 1250
+//              (12000000)/(9600) = 1250
 //////////////////////////////////////////////////////////////////////////////
 
 `default_nettype none
